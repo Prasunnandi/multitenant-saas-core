@@ -1,0 +1,7 @@
+tenant_id,organization_name,slug,isolation_mode,tier,active_seats,seat_limit,storage_used_gb,storage_quota_gb,monthly_api_calls,quota_limit_calls,rbac_roles_assigned,status,database_schema
+TEN-001,Apex Global Technologies,apex-tech,SCHEMA_PER_TENANT,ENTERPRISE,145,250,84.5,500,482000,1000000,145,ACTIVE,tenant_apex_tech
+TEN-002,Skyline Media Partners,skyline-media,ROW_LEVEL_SECURITY,GROWTH,38,50,22.1,100,142000,250000,38,ACTIVE,public_tenant_002
+TEN-003,Quantum Financial Analytics,quantum-fin,SCHEMA_PER_TENANT,ENTERPRISE,89,100,145.0,200,920000,1000000,89,ACTIVE,tenant_quantum_fin
+TEN-004,BioVance Health Labs,biovance-labs,SCHEMA_PER_TENANT,ENTERPRISE,52,75,41.8,250,210000,500000,52,ACTIVE,tenant_biovance_labs
+TEN-005,InnoVenture Startups,innoventure,ROW_LEVEL_SECURITY,STARTER,8,10,4.2,25,38000,50000,8,ACTIVE,public_tenant_005
+TEN-006,OmniRetail Logistics,omni-retail,SCHEMA_PER_TENANT,ENTERPRISE,190,200,280.4,300,985000,1000000,190,QUOTA_WARNING,tenant_omni_retail
